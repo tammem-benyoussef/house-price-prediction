@@ -24,7 +24,7 @@ from exploratory data analysis through model evaluation.
 - Residual plot confirmed no curved pattern, making polynomial regression unnecessary
 
 ## Dataset
-[Ames Housing Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+Download `train.csv` from the [Ames Housing Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) on Kaggle and place it inside a `data/` folder in the root directory before running the notebook.
 
 ## Tech Stack
 - Python
